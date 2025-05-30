@@ -10,13 +10,13 @@ const dpr = window.devicePixelRatio || 1;  // Объявляем once и исп�
 
 const lines = [
   "Hoş geldiniz!",
-"Ben şunlarla ilgileniyorum:",
+"Ilgilendiğim alanlar",
 "Frontend geliştirme",
 "Firebase, WordPress",
 "Tilda, Node.js",
 "JavaScript",
-"Veri çekme (parsing), otomasyon"
-
+"Veri çekme (parsing)",
+"Otomasyon"
 ];
 
 let particles = [];

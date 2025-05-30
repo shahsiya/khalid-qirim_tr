@@ -67,7 +67,7 @@ body, html {
   padding: 0;
   background-color: #06062d;
   color: #ddd;
-  font-family: 'Orbitron', 'Segoe UI', 'Arial', sans-serif;
+  font-family: 'Orbitron', 'Segoe UI', 'Arial', 'sans-serif';
 }
 #stars-canvas {
   position: absolute;

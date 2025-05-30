@@ -9,13 +9,14 @@ let particleSize;
 const dpr = window.devicePixelRatio || 1;  // Объявляем once и используем везде
 
 const lines = [
-  "Добро пожаловать! ",
-  "Я занимаюсь",
-  "Frontend-разработкой",
-  "Firebase,WordPress",
-  "Tilda,Node.js",
-  "JavaScript",
-  "парсинг,автоматизация."
+  "Hoş geldiniz!",
+"Ben şunlarla ilgileniyorum:",
+"Frontend geliştirme",
+"Firebase, WordPress",
+"Tilda, Node.js",
+"JavaScript",
+"Veri çekme (parsing), otomasyon"
+
 ];
 
 let particles = [];
